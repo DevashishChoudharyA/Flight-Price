@@ -1,4 +1,5 @@
 # Flight Fare Prediction: 
+Live Project Link: https://flight-price-2zys.onrender.com
 ![Project template](FLIGHT.png)
 In this data science project, the goal is to develop a machine learning model using Machine Learning to predict flight prices. The project aims to help travelers make informed decisions by providing accurate and reliable price estimates for their desired flights.
 
